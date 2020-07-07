@@ -3,4 +3,5 @@ body
     color: blue;
     text-align: center;
     font-family: Arial;
+    max-width: 30.0;
 }
